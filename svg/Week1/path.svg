@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0 Q25 25, 50 25" stroke="black" fill="none"/>
+<path d="M100 0 Q125 25, 150 25" stroke="black" fill="none"/>
+<path d="M0 50 H50 V100 H10 V60 H40 V90 H20 V70 H40" stroke="black" fill="none"/>
+<path d="M100 50 H150 V100 H110 V60 H140 V90 H120 V70 H140" stroke="black" fill="none"/>
+<path d="M50 120 C70 140,90 140,110,120" stroke="black" fill="none"/>
+<path d="M150 140 L200 80" stroke="black" fill="none"/>
+
+
+
+</svg>
